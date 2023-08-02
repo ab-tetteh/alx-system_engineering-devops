@@ -1,1 +1,1 @@
-This foldder is for for shell basics
+This README describes what each script is doing
